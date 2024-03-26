@@ -1,2 +1,2 @@
 # Hello World from JavaScript
-Hello World application from the JavaScript
+Simple Hello World application using JavaScript only.
